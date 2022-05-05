@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Aadhithyashri/GitTest#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.1"
   }
 }

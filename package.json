@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Aadhithyashri/GitTest#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "onchange": "^3.3.0",
+    "parallelshell": "^3.0.2"
   },
   "dependencies": {
     "node-sass": "^7.0.1"
